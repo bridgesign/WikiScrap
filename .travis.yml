@@ -13,5 +13,5 @@ python:
 
 install:
 
-  - pip install BeautifulSoup
+  - pip install BeautifulSoup4
   - pip install requests
